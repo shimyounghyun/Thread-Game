@@ -26,9 +26,7 @@
 
 # 게임 화면
 
-<img width="756" alt="스크린샷 2020-06-28 오후 4 37 10" src="https://user-images.githubusercontent.com/26181611/85941998-712d9380-b961-11ea-8418-2c2b71b66c12.png">
-<img width="756" alt="스크린샷 2020-06-28 오후 4 38 06" src="https://user-images.githubusercontent.com/26181611/85942000-72f75700-b961-11ea-9d39-15937a500c33.png">
-<img width="756" alt="스크린샷 2020-06-28 오후 4 38 31" src="https://user-images.githubusercontent.com/26181611/85942001-74c11a80-b961-11ea-98be-8348a7368427.png">
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/26181611/97953434-d0a22100-1de3-11eb-8e5c-9203cb2df0b1.gif)
 
 # 이미지 사용
 - [open game art](https://opengameart.org/content/16x16-tileset-water-dirt-forest) CC BY-SA 3.0
